@@ -6,5 +6,5 @@ The original image resolution for images in MiniPlaces is 128x128. To make the t
 
 predict.py asks the train model to predict the following images:
 
-![](test_model.png)
+<img src = "test_model.png" width = "700">
 
