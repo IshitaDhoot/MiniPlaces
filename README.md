@@ -10,7 +10,6 @@ predict.py asks the trained model to predict the following images:
 
 These were the labels predicted by the model starting from top left:
 
-| palace | bamboo_forest | beauty_salon | swimming_pool/outdoor      | lobby      |   office |canyon|railroad_track
 | ------------- |:-------------:| -----:|------------- |:-------------:| -----:|:-------------:| -----:
 | palace | bamboo_forest | beauty_salon | swimming_pool/outdoor      | lobby      |   office |canyon|railroad_track
 | palace | bamboo_forest | beauty_salon | swimming_pool/outdoor      | lobby      |   office |canyon|railroad_track
