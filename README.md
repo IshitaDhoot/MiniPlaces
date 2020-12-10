@@ -5,3 +5,6 @@
 The original image resolution for images in MiniPlaces is 128x128. To make the training feasible, the data loader reduces the image resolution to 32x32. dataloader.py will also download the full dataset the first time you run train_miniplaces.py.
 
 predict.py asks the train model to predict the following images:
+
+![Uploading test_model.png…]()
+
