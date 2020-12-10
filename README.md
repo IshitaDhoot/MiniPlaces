@@ -10,35 +10,35 @@ predict.py asks the trained model to predict the following images:
 
 These were the labels predicted by the model starting from top left:
 
-palace
-bamboo_forest
-beauty_salon
-swimming_pool/outdoor
-lobby
-office 
-canyon 
-railroad_track  
-shed 
-kitchen 
-stage/indoor 
-ski_slope 
-chalet 
-valley 
-auditorium 
-lobby 
-corridor 
-trench 
-valley 
-desert/sand 
-martial_arts_gym 
-fire_station 
-palace 
-hot_spring 
-swimming_pool/outdoor 
-cockpit  
-shed 
-fountain 
-beauty_salon 
-monastery/outdoor 
-laundromat 
-phone_booth
+palace <br>
+bamboo_forest<br>
+beauty_salon<br>
+swimming_pool/outdoor<br>
+lobby<br>
+office <br>
+canyon <br>
+railroad_track  <br>
+shed <br>
+kitchen <br>
+stage/indoor <br>
+ski_slope<br> 
+chalet <br>
+valley <br>
+auditorium <br>
+lobby <br>
+corridor <br>
+trench <br>
+valley <br>
+desert/sand <br>
+martial_arts_gym <br>
+fire_station <br>
+palace <br>
+hot_spring <br>
+swimming_pool/outdoor <br>
+cockpit  <br>
+shed <br>
+fountain <br>
+beauty_salon <br>
+monastery/outdoor <br>
+laundromat <br>
+phone_booth<br>
